@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @elsasd
+- 👀 I’m interested in all types of programming languages, time to find the one that interests me more than the others.
+- 🌱 I’m currently learning nodeJS, HTML, CSS, bootstrap while working on an old web server project.
